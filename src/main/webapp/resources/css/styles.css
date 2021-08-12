@@ -34,3 +34,18 @@ body {
 #form table {
 	width: 100%;
 }
+
+#form table input {
+	boprder: 1px solid #CCC;
+	box-shadow: none;
+	width: 100%;
+	margin-bottom: 15px;
+}
+
+#form button {
+	background: none;
+	border: 2px solid #593199;
+	color: #593199;
+	border-radius: 50px;
+	width: 250px;
+} 
