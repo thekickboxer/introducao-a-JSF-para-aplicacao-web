@@ -28,7 +28,7 @@ public class EventoBean implements Serializable {
 		return "";
 	}
 	
-	private void clear() {
+	public void clear() {
 		this.evento = new Evento();
 	}
 	

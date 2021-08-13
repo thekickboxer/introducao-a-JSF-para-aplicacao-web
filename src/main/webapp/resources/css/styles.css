@@ -36,7 +36,7 @@ body {
 }
 
 #form table input {
-	boprder: 1px solid #CCC;
+	border: 1px solid #CCC;
 	box-shadow: none;
 	width: 100%;
 	margin-bottom: 15px;
@@ -48,4 +48,21 @@ body {
 	color: #593199;
 	border-radius: 50px;
 	width: 250px;
-} 
+}
+
+#table {
+	width: 80%;
+	border: none;
+}
+
+#table th {
+	color: #FFF;
+	background: #593199;
+	text-shadow: none;
+	height: 30px;
+	box-shadow: none;
+}
+
+#table th, #table td {
+	border-color: #FFF;
+}
